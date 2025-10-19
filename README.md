@@ -1,4 +1,4 @@
-🧠 #AI-Based Minesweeper Solver
+🧠 **AI-Based Minesweeper Solver**
 
 An intelligent Minesweeper-solving agent built using Constraint Satisfaction Problem (CSP) techniques and probabilistic reasoning, with a real-time Tkinter graphical interface for visualization.
 
